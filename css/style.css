@@ -1,0 +1,65 @@
+body{
+}
+#title_pd2{
+margin: auto;
+}
+#wrapper{
+background: #141414;
+padding: 15px;
+width: 980px;
+margin: auto;
+padding: 10px;
+}
+.fotorama{
+width: 800px;
+margin: auto;
+padding: 10px;
+}
+#video_pd2{
+width: 800px;
+margin: auto;
+}
+.heist{
+font-family: 'Open Sans', sans-serif;
+color: white;
+font-size: 4.8em;
+padding: 50px;
+width: 0px;
+}
+.bain{
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 1.2em;
+color: white;
+text-align: left;
+padding: 45px;
+position: relative;
+margin-top: 5px;
+width: 800px;
+}
+.ar1{
+width:64px;
+}
+ul{
+padding: 15px;
+width: 800px;
+margin: auto;
+padding: 10px;
+}
+.desc{
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 1.0em;
+color: white;
+text-align: left;
+position: relative;
+padding: 15px;
+
+}
+h3{
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 1.7em;
+color: white;
+display: inline-block;
+padding: 5px;
+position: relative;
+bottom: 25px;
+}
